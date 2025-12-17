@@ -14,7 +14,7 @@ This part can feel heavy at first and that’s normal.
 - Needed to understand concepts like Proof of Stake, reorgs and 51% attacks
 
 ## Core Building Blocks of Blockchain Architecture
-#### The Big Idea (Before Details)
+### The Big Idea (Before Details)
 
 **A blockchain is just:**
 
