@@ -27,3 +27,15 @@ This part can feel heavy at first and that’s normal.
 - And no one can secretly change
 
 Everything in blockchain architecture exists to make that one idea work.
+
+Nodes (The People Running the Network)
+
+Nodes are just computers running blockchain software.
+
+Anyone can run one
+
+Each node keeps a copy of the blockchain
+
+No single computer is special
+
+If some nodes go offline, the network still works.
