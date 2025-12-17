@@ -2,7 +2,7 @@ Blockchain architecture explains how blockchains actually work under the hood—
 
 This is the technical foundation behind Web3.
 
--- Why Blockchain Architecture Matters
+** Why Blockchain Architecture Matters **
 
 Helps you understand security, decentralization, and trust
 
