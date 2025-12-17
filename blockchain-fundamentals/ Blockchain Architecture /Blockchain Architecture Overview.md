@@ -13,7 +13,7 @@ This is the technical foundation behind Web3.
 - Needed to understand concepts like Proof of Stake, reorgs and 51% attacks
 
 ## Core Building Blocks of Blockchain Architecture
-1. Nodes
+**1. Nodes**
 
 - Computers running blockchain software
 
