@@ -1,8 +1,9 @@
 # Blockchain Architecture
 
-Blockchain architecture explains how blockchains actually work under the hood—how data is stored, how networks stay secure, and how thousands of computers agree on the same truth without a central authority.
+If you’re new to Web3, blockchain architecture simply means:
+how a blockchain works internally, how data is stored, how decisions are made and how the system stays secure without anyone being in charge.
 
-This is the technical foundation behind Web3.
+This part can feel heavy at first and that’s normal.
 
  ## **Why Blockchain Architecture Matters**
 
@@ -13,10 +14,16 @@ This is the technical foundation behind Web3.
 - Needed to understand concepts like Proof of Stake, reorgs and 51% attacks
 
 ## Core Building Blocks of Blockchain Architecture
-**1. Nodes**
+#### The Big Idea (Before Details)
 
-- Computers running blockchain software
+**A blockchain is just:**
 
-- Store and verify blockchain data
+- A shared record
 
-- Thousands of nodes = no single point of failure
+- Stored on many computers
+
+- That everyone agrees on
+
+- And no one can secretly change
+
+Everything in blockchain architecture exists to make that one idea work.
