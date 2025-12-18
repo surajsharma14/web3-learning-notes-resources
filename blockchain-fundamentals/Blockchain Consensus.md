@@ -23,10 +23,31 @@ Consensus mechanisms exist to solve this coordination problem and keep one corre
 
 A Sybil attack happens when one person creates many fake identities (nodes) to gain control.
 
-In blockchains, nodes act like voters
+- In blockchains, nodes act like voters
 
-Fake nodes could approve fraud or censor transactions
+- Fake nodes could approve fraud or censor transactions
 
-Similar to stuffing a ballot box with fake voters
+- Similar to stuffing a ballot box with fake voters
 
 Solution: Make participation expensive, so fake identities are useless.
+
+## Sybil Resistance Mechanisms
+**Proof of Work (PoW) — Bitcoin**
+
+- Requires massive computing power and electricity
+
+- Miners solve hard math problems
+
+- Attacks are expensive due to hardware + energy costs
+
+**Proof of Stake (PoS) — Ethereum**
+
+- Requires locking up large amounts of crypto as stake
+
+- Validators risk losing funds if they act dishonestly (slashing)
+
+- Attacks require huge financial capital
+
+⚠️ Important:
+PoW and PoS are **not full consensus mechanisms.**
+They are **Sybil resistance tools** that control who can participate.
