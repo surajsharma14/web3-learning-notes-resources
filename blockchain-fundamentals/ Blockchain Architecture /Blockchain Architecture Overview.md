@@ -39,3 +39,15 @@ Nodes are just computers running blockchain software.
 - No single computer is special
 
 If some nodes go offline, the network still works.
+
+**Blocks (How Data Is Stored)**
+
+Transactions don’t go directly onto the blockchain one by one.
+
+-They’re grouped together into blocks
+
+- Each block is linked to the previous one
+
+- That link makes changing history extremely hard
+
+- That’s why it’s called a block-chain.
