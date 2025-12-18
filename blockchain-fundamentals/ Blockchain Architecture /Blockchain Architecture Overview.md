@@ -51,3 +51,13 @@ Transactions don’t go directly onto the blockchain one by one.
 - That link makes changing history extremely hard
 
 - That’s why it’s called a block-chain.
+
+**Distributed Ledger (Everyone Has the Same Copy)**
+
+There’s no central database.
+
+- Every node has the same ledger
+
+- If someone tries to cheat, other nodes reject it
+
+- Truth comes from agreement, not authority
