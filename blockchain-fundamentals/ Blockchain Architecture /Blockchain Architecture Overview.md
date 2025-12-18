@@ -61,3 +61,23 @@ There’s no central database.
 - If someone tries to cheat, other nodes reject it
 
 - Truth comes from agreement, not authority
+
+**Consensus (How Everyone Agrees)**
+
+Since no one is in charge, the network needs rules to agree on:
+
+- Which transactions are valid
+
+- What order they happened in
+
+- Which block is the “real” one
+
+These rules are called consensus mechanisms.
+
+Two common ones you’ll hear about:
+
+- Proof of Work (PoW)
+
+- Proof of Stake (PoS)
+
+Different methods, same goal: fair agreement.
