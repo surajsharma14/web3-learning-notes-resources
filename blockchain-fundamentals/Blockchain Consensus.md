@@ -19,7 +19,7 @@ But when participants are spread across the world, messages can be delayed or mi
 Consensus mechanisms exist to solve this coordination problem and keep one correct version of history.
 
 ## Three Core Problems Consensus Must Solve
-### 1. Sybil Attacks (Sybil Resistance)
+## 1. Sybil Attacks (Sybil Resistance)
 
 A Sybil attack happens when one person creates many fake identities (nodes) to gain control.
 
@@ -51,3 +51,16 @@ Solution: Make participation expensive, so fake identities are useless.
 ⚠️ Important:
 PoW and PoS are **not full consensus mechanisms.**
 They are **Sybil resistance tools** that control who can participate.
+
+## 2. Finality
+
+Finality means a transaction is permanent and cannot be reversed.
+
+- Banks can reverse transactions because they control the system
+
+- Blockchains must decide finality without a central authority
+
+Finality answers one question:
+👉 When is a transaction 100% locked forever?
+
+Different blockchains reach finality at different speeds.
