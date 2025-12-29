@@ -7,7 +7,7 @@ Consensus is the process that helps all nodes:
 
 - Agree on transaction history
 
-- Maintain one shared, verified record
+- Maintain one shared, verified record 
 
 - Trust the system without trusting each other
 
