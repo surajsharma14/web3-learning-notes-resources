@@ -1,6 +1,6 @@
 ## What is the Consensus Problem?
 
-In a blockchain, thousands of computers (nodes) run independently with **no central authority.**
+In a blockchain thousands of computers (nodes) run independently with **no central authority.**
 The big challenge is: **how do all of them agree on the same truth?**
 
 Consensus is the process that helps all nodes:
