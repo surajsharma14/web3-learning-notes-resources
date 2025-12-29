@@ -13,7 +13,7 @@ Consensus is the process that helps all nodes:
 
 ## Why Consensus Is Needed (Simple Example)
 
-If everyone sees the same transaction at the same time, agreement is easy.
+If everyone sees the same transaction at the same time, agreement is easy. 
 But when participants are spread across the world, messages can be delayed or missed.
 
 Consensus mechanisms exist to solve this coordination problem and keep one correct version of history.
