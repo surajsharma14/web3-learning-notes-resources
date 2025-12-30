@@ -1,7 +1,7 @@
 ## Proof of Work Blockchains
 **Core Concept** <br>
-Proof of Work (PoW) is the consensus mechanism that secures blockchains like Bitcoin through computational puzzles and decentralized validation.
-Cryptographic Foundation: Hashing
+Proof of Work (PoW) is the consensus mechanism that secures blockchains like Bitcoin through computational puzzles and decentralized validation.<br>
+**Cryptographic Foundation: Hashing** <br>
 What is a Hash?
 A unique, fixed-length string generated from any data using a hash function (e.g., SHA256 for Bitcoin, Keccak256 for Ethereum).
 Two Critical Properties:
