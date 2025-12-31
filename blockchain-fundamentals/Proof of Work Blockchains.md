@@ -17,4 +17,4 @@ Contains:
 Block number
 Data (transactions)
 Nonce (special number)
-Previous block's hash 
+Previous block's hash  
