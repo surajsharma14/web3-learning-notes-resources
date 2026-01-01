@@ -9,7 +9,7 @@ Two Critical Properties:
  
 Fixed Length: Any input size → same output length (SHA256 = 64 hex characters)
 Determinism: Same input = same hash; tiny change = completely different hash
-
+ 
 Hashes act as digital fingerprints for data.
 Mining and Proof of Work 
 Block Structure
