@@ -1,5 +1,4 @@
-## Proof of Work Blockchains
-**Core Concept** <br>
+ 
 Proof of Work (PoW) is the consensus mechanism that secures blockchains like Bitcoin through computational puzzles and decentralized validation.<br>
 **Cryptographic Foundation: Hashing** <br> <br>
 
