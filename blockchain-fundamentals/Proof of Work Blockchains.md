@@ -8,7 +8,7 @@ A unique, fixed-length string generated from any data using a hash function (e.g
 Two Critical Properties:
  
 Fixed Length: Any input size → same output length (SHA256 = 64 hex characters)
-Determinism: Same input = same hash; tiny change = completely different hash
+Determinism: Same input = same hash; tiny change = completely different hash <br>
  
 Hashes act as digital fingerprints for data.
 Mining and Proof of Work 
