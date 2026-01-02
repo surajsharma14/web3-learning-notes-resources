@@ -14,7 +14,7 @@ Mining and Proof of Work
 Block Structure
 Contains:  
 
-Block number
+Block number 
 Data (transactions)
 Nonce (special number)
 Previous block's hash  
