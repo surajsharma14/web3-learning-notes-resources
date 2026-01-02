@@ -13,7 +13,7 @@ Determinism: Same input = same hash; tiny change = completely different hash
 Hashes act as digital fingerprints for data.
 Mining and Proof of Work 
 Block Structure
-Contains: 
+Contains:  
 
 Block number
 Data (transactions)
