@@ -58,4 +58,4 @@ Wallet sends signed transaction to Ethereum node via **RPC endpoint**
 
 ## Key Takeaway
 
-Every step (signature → attestation) ensures blockchain state changes are **authorized, valid, and permanent** for Externally Owned Accounts (EOAs).
+Every step (signature → attestation) ensures blockchain state changes are **authorized, valid and permanent** for Externally Owned Accounts (EOAs).
