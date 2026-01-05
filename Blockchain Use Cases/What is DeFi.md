@@ -192,6 +192,3 @@ benefits = [
 - [DeFi Pulse - DeFi Analytics](https://www.defipulse.com/)
 
 ---
-
-**Last Updated:** January 2026  
-**Tags:** `#DeFi` `#Blockchain` `#SmartContracts` `#Cryptocurrency` `#Web3`
