@@ -1,4 +1,4 @@
-# DeFi (Decentralized Finance) - Study Notes
+# DeFi (Decentralized Finance) - Study Notes 
 
 ## 📌 What is DeFi?
 
