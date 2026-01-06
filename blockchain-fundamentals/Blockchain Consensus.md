@@ -11,7 +11,7 @@ Consensus is the process that helps all nodes:
 
 - Trust the system without trusting each other
 
-## Why Consensus Is Needed (Simple Example)
+## Why Consensus Is Needed (Simple Example) 
 
 If everyone sees the same transaction at the same time, agreement is easy. 
 But when participants are spread across the world, messages can be delayed or missed.
