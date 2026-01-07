@@ -1,4 +1,4 @@
-# Solidity Types
+# Solidity Types 
 
 ## Elementary Data Types  
 
