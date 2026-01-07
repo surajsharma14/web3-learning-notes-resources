@@ -4,7 +4,7 @@
 
 Solidity supports various elementary types that can be combined to create more complex ones.
 
-### Basic Types
+### Basic Types 
 
 - **Boolean (bool)**: `true` or `false`
 - **Unsigned Integer (uint)**: Unsigned whole number (positive only)
