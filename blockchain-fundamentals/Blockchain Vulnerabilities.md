@@ -3,7 +3,7 @@
 ## Core Principle
 Blockchain security doesn't make attacks impossible—it makes them **economically irrational**. Major networks like Bitcoin and Ethereum are designed so honest participation is always more profitable than attacking.
 
-## Major Attack Types
+## Major Attack Types 
 
 ### 1. Sybil Attacks
 - **What it is**: Single entity creates many fake identities/nodes to gain majority control
