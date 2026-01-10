@@ -9,7 +9,7 @@ Blockchain security doesn't make attacks impossible—it makes them **economical
 - **What it is**: Single entity creates many fake identities/nodes to gain majority control
 - **Goal**: Outvote honest participants ("one person pretending to be many")
 - **Potential damage**: Approve fraud, double-spend, censor transactions, rewrite history
-- **Defense mechanisms**:
+- **Defense mechanisms**: 
   - **PoW (Bitcoin)**: Requires real computational power (hash rate), not just fake nodes. Attackers must spend massive energy/capital on mining hardware
   - **PoS (Ethereum)**: Requires real economic stake (locked ETH). Can't fake cryptocurrency ownership
 
