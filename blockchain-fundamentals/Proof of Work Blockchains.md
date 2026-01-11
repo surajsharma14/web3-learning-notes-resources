@@ -5,7 +5,7 @@ Proof of Work (PoW) is the consensus mechanism that secures blockchains like Bit
 What is a Hash?
 A unique, fixed-length string generated from any data using a hash function (e.g., SHA256 for Bitcoin, Keccak256 for Ethereum).
 Two Critical Properties:
- 
+  
 Fixed Length: Any input size → same output length (SHA256 = 64 hex characters)
 Determinism: Same input = same hash; tiny change = completely different hash <br>
  
