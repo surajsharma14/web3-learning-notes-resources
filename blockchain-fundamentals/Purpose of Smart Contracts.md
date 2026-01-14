@@ -2,7 +2,7 @@
 
 ## Elementary Data Types
 
-Solidity supports various elementary types that can be combined to create more complex ones.
+Solidity supports various elementary types that can be combined to create more complex ones. 
 
 ### Basic Types 
 
