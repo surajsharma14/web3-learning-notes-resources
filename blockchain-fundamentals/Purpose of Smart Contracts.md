@@ -114,7 +114,7 @@ Example: In `uint256 favoriteNumber = 88;`, `favoriteNumber` is the variable and
 
 **Answer:**
 - **uint**: Represents unsigned integer numbers (whole numbers only, no decimals). Used for mathematical operations and counting.
-- **bytes**: Represents raw byte data in hexadecimal. Used for storing arbitrary data, text (when converted), or binary information.
+- **bytes**: Represents raw byte data in hexadecimal. Used for storing arbitrary data, text (when converted) or binary information.
 
 **Key difference:** `uint` is for numerical operations, `bytes` is for data storage and manipulation.
 
