@@ -6,7 +6,7 @@ Solidity supports various elementary types that can be combined to create more c
 
 ### Basic Types 
 
-- **Boolean (bool)**: `true` or `false`
+- **Boolean (bool)**: `true` or `false` 
 - **Unsigned Integer (uint)**: Unsigned whole number (positive only)
 - **Integer (int)**: Signed whole number (positive and negative)
 - **Address (address)**: 20-byte value (e.g., Ethereum wallet address)
