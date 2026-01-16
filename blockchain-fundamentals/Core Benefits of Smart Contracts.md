@@ -162,5 +162,5 @@
 | **Immutability** | Terms can change | Code locked forever |
 | **Trust** | Brand-based promises | Math-based guarantees |
 
-**Core Principle:** Smart contracts inherit transformative benefits from underlying blockchain technology, creating systems that are more secure, transparent, efficient, and fair than traditional alternatives.
+**Core Principle:** Smart contracts inherit transformative benefits from underlying blockchain technology, creating systems that are more secure, transparent, efficient and fair than traditional alternatives.
 ```
