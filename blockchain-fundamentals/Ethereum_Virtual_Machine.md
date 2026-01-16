@@ -1,4 +1,3 @@
-```markdown
 # Introduction to the Ethereum Virtual Machine (EVM)
 
 ## What is the EVM? 
