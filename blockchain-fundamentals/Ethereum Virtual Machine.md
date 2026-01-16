@@ -1,7 +1,7 @@
 ```markdown
 # Introduction to the Ethereum Virtual Machine (EVM)
 
-## What is the EVM?
+## What is the EVM? 
 
 **Ethereum Virtual Machine (EVM)** = Computation engine that drives the Ethereum network.
 
