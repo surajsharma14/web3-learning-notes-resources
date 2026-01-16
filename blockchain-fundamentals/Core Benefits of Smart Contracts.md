@@ -93,7 +93,7 @@
 
 ## 5. Immutability: Code That Cannot Be Changed
 
-**What it means:** Once deployed, smart contract code is immutable—cannot be changed or deleted.
+**What it means:** Once deployed, smart contract code is immutable cannot be changed or deleted.
 
 ### Benefits
 
