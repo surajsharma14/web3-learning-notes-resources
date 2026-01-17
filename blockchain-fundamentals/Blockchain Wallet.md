@@ -2,9 +2,9 @@
 
 ## What Is a Blockchain Wallet?
 
-To understand what a blockchain wallet is, let's start with a simple, real-world scenario. Imagine Alice owes her friend Bob $5. If they are in the same room, the process is simple: Alice opens her physical wallet, takes out a $5 bill, and hands it directly to Bob. This is a direct, wallet-to-wallet transfer—it's immediate, simple, and involves no one else.
+To understand what a blockchain wallet is, let's start with a simple, real-world scenario. Imagine Alice owes her friend Bob $5. If they are in the same room, the process is simple: Alice opens her physical wallet, takes out a $5 bill and hands it directly to Bob. This is a direct, wallet-to-wallet transfer—it's immediate, simple and involves no one else.
 
-Now, imagine Alice and Bob are on opposite sides of the world. Sending that same $5 becomes much more complicated. Alice would need to use a bank or another third-party service, which involves fees, delays, and a more complex process.
+Now, imagine Alice and Bob are on opposite sides of the world. Sending that same $5 becomes much more complicated. Alice would need to use a bank or another third-party service, which involves fees, delays and a more complex process.
 
 Blockchain technology was designed to solve this problem. It allows for digital transactions that are as direct and easy as handing cash to someone in person, regardless of physical distance. The tool that makes this possible is the blockchain wallet.
 
@@ -47,7 +47,7 @@ The process is straightforward:
 3. Alice opens her own blockchain wallet, initiates a new transaction, and enters Bob's wallet address as the destination.
 4. She specifies the amount of tokens to send and confirms the transaction.
 
-Her wallet securely approves and broadcasts this transaction to the blockchain network. Moments later, the tokens arrive in Bob's wallet. The transfer is complete—direct, secure, and without the need for a traditional bank.
+Her wallet securely approves and broadcasts this transaction to the blockchain network. Moments later, the tokens arrive in Bob's wallet. The transfer is complete—direct, secure and without the need for a traditional bank.
 
 ## Summary
 
