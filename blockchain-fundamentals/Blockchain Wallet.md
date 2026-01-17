@@ -2,7 +2,7 @@
 
 ## What Is a Blockchain Wallet?
 
-To understand what a blockchain wallet is, let's start with a simple, real-world scenario. Imagine Alice owes her friend Bob $5. If they are in the same room, the process is simple: Alice opens her physical wallet, takes out a $5 bill and hands it directly to Bob. This is a direct, wallet-to-wallet transfer—it's immediate, simple and involves no one else. 
+To understand what a blockchain wallet is, let's start with a simple, real-world scenario. Imagine Alice owes her friend Bob $5. If they are in the same room, the process is simple: Alice opens her physical wallet, takes out a $5 bill and hands it directly to Bob. This is a direct, wallet-to-wallet transfer it's immediate, simple and involves no one else. 
 
 Now, imagine Alice and Bob are on opposite sides of the world. Sending that same $5 becomes much more complicated. Alice would need to use a bank or another third-party service, which involves fees, delays and a more complex process.
 
