@@ -5,7 +5,7 @@
 Welcome to a new section focused on **practical applications** of blockchain technology. We're shifting from abstract mechanics to tangible, real-world impact.
 
 **Goal:** Answer the most practical questions in the space:
-- What are people actually building with this technology?
+- What are people actually building with this technology? 
 - How is it being used to solve real problems and create new opportunities?
 
 This section is designed to be **relaxed, interesting and easier to digest** as we explore innovative ways people are using blockchain today.
