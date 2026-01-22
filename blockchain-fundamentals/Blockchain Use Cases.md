@@ -66,4 +66,4 @@ Our journey begins with a deep dive into **DeFi (Decentralized Finance)** - the 
 
 ---
 
-*From abstract concepts to concrete applications - let's explore how blockchain is reshaping our world.*
+*From abstract concepts to concrete applications let's explore how blockchain is reshaping our world.*
