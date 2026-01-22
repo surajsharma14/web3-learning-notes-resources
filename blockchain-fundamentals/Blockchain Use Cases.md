@@ -8,7 +8,7 @@ Welcome to a new section focused on **practical applications** of blockchain tec
 - What are people actually building with this technology?
 - How is it being used to solve real problems and create new opportunities?
 
-This section is designed to be **relaxed, interesting, and easier to digest** as we explore innovative ways people are using blockchain today.
+This section is designed to be **relaxed, interesting and easier to digest** as we explore innovative ways people are using blockchain today.
 
 ## What We'll Cover
 
