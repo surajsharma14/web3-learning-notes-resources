@@ -30,7 +30,7 @@
 
 ### The Fundamental Conflict
 
-> Accounts that can start transactions aren't programmable, and accounts that are programmable can't start transactions.
+> Accounts that can start transactions aren't programmable and accounts that are programmable can't start transactions.
 
 ## The Solution: Smart Wallets
 
@@ -128,7 +128,7 @@ Making it easier for developers to integrate these features
 
 - Eliminates friction and insecurity holding Web3 back
 - Not just incremental improvement
-- Unlocks user-friendly, intuitive, and safe Web3 experience for everyone
+- Unlocks user-friendly, intuitive and safe Web3 experience for everyone
 
 **Vision:** Transform blockchain from difficult and unforgiving to accessible and easy to use
 
