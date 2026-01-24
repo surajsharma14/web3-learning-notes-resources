@@ -12,10 +12,10 @@
 ### Current Smart Wallet Adoption Challenge
 
 Standard EOA users (e.g., MetaMask) cannot simply "upgrade" - they must:
-- ❌ Create entirely new smart wallet account
-- ❌ Receive completely new wallet address
-- ❌ Learn new user interface
-- ❌ Manually transfer all funds, NFTs, and assets from old EOA to new wallet
+-  Create entirely new smart wallet account
+-  Receive completely new wallet address
+-  Learn new user interface
+-  Manually transfer all funds, NFTs and assets from old EOA to new wallet
 
 **Result:** Cumbersome process prevents millions from accessing account abstraction benefits
 
