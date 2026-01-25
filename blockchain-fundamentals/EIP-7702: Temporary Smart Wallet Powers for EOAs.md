@@ -11,7 +11,7 @@ To use a smart wallet, EOA users (e.g., MetaMask) must:
 - ❌ Create entirely new smart wallet account
 - ❌ Get completely new wallet address
 - ❌ Learn new user interface
-- ❌ Manually transfer all funds, NFTs, and assets from old EOA
+- ❌ Manually transfer all funds, NFTs and assets from old EOA
 
 **Result:** Millions of users stuck with EOA limitations
 
