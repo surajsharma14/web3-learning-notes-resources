@@ -2,7 +2,7 @@
 
 Gas fees serve two critical functions ensuring network health and security:
 
-### 1. Compensation for Validators
+### 1. Compensation for Validators 
 
 **Who:** Validators run software maintaining the network
 
