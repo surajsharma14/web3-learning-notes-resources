@@ -1,5 +1,3 @@
-# Ethereum Gas Fees: A Deep Dive
-
 ## Why Gas Fees Are Necessary
 
 Gas fees serve two critical functions ensuring network health and security:
