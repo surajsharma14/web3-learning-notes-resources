@@ -1,8 +1,8 @@
 ## Why Gas Fees Are Necessary
 
-Gas fees serve two critical functions ensuring network health and security: 
+Gas fees serve two critical functions ensuring network health and security:
 
-### 1. Compensation for Validators 
+### 1. Compensation for Validators
 
 **Who:** Validators run software maintaining the network
 
@@ -133,3 +133,63 @@ Gas fees involve very small fractions of ETH, so smaller units are used:
 - **Most common unit** for gas prices
 
 **Conversions:**
+```
+1 Gwei = 1,000,000,000 Wei
+1 ETH = 1,000,000,000 Gwei (1 billion Gwei)
+1 ETH = 10^18 Wei (1 quintillion Wei)
+```
+
+## Analyzing Transactions on Etherscan
+
+Block explorers like Etherscan show transaction data for Type 2 transactions:
+
+### Key Fields
+
+**Gas Limit & Usage by Txn**
+- `Gas Limit`: Maximum gas user set (standard ETH transfer = 21,000)
+- `Usage by Txn`: Actual gas consumed
+- Unused gas is **refunded**
+
+**Base Fee Per Gas**
+- Network-determined base fee when transaction included in block
+
+**Max Priority Fee Per Gas**
+- Maximum tip user willing to pay validator
+- Actual tip may be lower, never exceeds this amount
+
+**Burnt & Txn Savings Fees**
+- **Burnt**: ETH destroyed = `Base Fee Per Gas × Gas Used`
+- **Txn Savings**: Refund if max fee willing to pay > actual cost (`Base Fee + Priority Fee`)
+
+## Wallet Management
+
+**Modern wallets (e.g., MetaMask):**
+- Handle calculations automatically
+- Provide advanced settings for manual control:
+  - `Max base fee`
+  - `Priority fee`
+  - `Gas limit`
+
+**Users can control:**
+- Transaction costs
+- Transaction speed
+
+## Key Takeaways
+
+✅ **Gas fees** compensate validators and prevent spam
+
+✅ **EIP-1559** split fees into predictable base fee + optional priority fee
+
+✅ **Base fee** algorithmically adjusts based on block fullness and is **burned**
+
+✅ **Priority fee** directly incentivizes validators for faster inclusion
+
+✅ **Gwei** is the standard unit for gas prices
+
+✅ **Unused gas is refunded** to users
+
+✅ Modern wallets automate gas management while offering manual control
+
+---
+
+*From unpredictable auctions to algorithmic efficiency - EIP-1559 revolutionized Ethereum's gas fee system.*
