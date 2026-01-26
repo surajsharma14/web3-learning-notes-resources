@@ -1,6 +1,6 @@
 ## Why Gas Fees Are Necessary
 
-Gas fees serve two critical functions ensuring network health and security:
+Gas fees serve two critical functions ensuring network health and security: 
 
 ### 1. Compensation for Validators 
 
