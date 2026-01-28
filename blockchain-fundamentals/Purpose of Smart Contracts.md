@@ -10,7 +10,7 @@ Solidity supports various elementary types that can be combined to create more c
 - **Unsigned Integer (uint)**: Unsigned whole number (positive only)
 - **Integer (int)**: Signed whole number (positive and negative)
 - **Address (address)**: 20-byte value (e.g., Ethereum wallet address)
-- **Bytes (bytes)**: Low-level raw byte data
+- **Bytes (bytes)**: Low-level raw byte data 
 
 ## Variables Definition
 
