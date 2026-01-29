@@ -23,7 +23,7 @@ bool hasFavoriteNumber = true; // Variable holds value `true`
 
 ### Bit Specification
 
-- Can specify number of bits for `uint` and `int`
+- Can specify number of bits for `uint` and `int` 
 - `uint256` = 256 bits
 - `uint` = shorthand for `uint256`
 
