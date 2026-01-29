@@ -11,7 +11,7 @@ Solidity supports various elementary types that can be combined to create more c
 - **Integer (int)**: Signed whole number (positive and negative)
 - **Address (address)**: 20-byte value (e.g., Ethereum wallet address)
 - **Bytes (bytes)**: Low-level raw byte data
-
+ 
 ## Variables Definition 
 
 **Variable** = Placeholder for a **value** of a specific **data type**.
