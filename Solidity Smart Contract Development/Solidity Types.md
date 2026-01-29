@@ -14,7 +14,7 @@ Solidity supports various elementary types that can be combined to create more c
  
 ## Variables Definition 
 
-**Variable** = Placeholder for a **value** of a specific **data type**.
+**Variable** = Placeholder for a **value** of a specific **data type**. 
 
 ### Example
 ```solidity
