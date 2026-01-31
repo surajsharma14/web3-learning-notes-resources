@@ -18,7 +18,7 @@
 **Characteristics:**
 - Standard account type (e.g., MetaMask)
 - Controlled by private key
-- **Can initiate transactions** (send tokens, interact with contracts)
+- **Can initiate transactions** (send tokens, interact with contracts) 
 - **NOT programmable** - fixed rules, no flexibility
 
 #### Smart Contract Accounts
