@@ -7,7 +7,7 @@
 - Always needing native tokens for gas fees
 - Difficult, unintuitive and unforgiving user experience
 
-**Goal:** Make blockchain so easy "your grandma could use it"
+**Goal:** Make blockchain so easy "your grandma could use it" 
 
 ## Ethereum's Two-Account System
 
