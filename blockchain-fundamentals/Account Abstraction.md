@@ -2,7 +2,7 @@
 
 ## The Problem: Web3 is Too Difficult
 
-**Barriers to mainstream adoption:**
+**Barriers to mainstream adoption:** 
 - Managing obscure seed phrases
 - Always needing native tokens for gas fees
 - Difficult, unintuitive and unforgiving user experience
